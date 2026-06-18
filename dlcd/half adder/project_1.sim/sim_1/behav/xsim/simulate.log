@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0 | a = 0, b = 0 | sum = 0, carry = 0
+Time = 1000 | a = 0, b = 1 | sum = 1, carry = 0
+Time = 2000 | a = 1, b = 0 | sum = 1, carry = 0
+Time = 3000 | a = 1, b = 1 | sum = 0, carry = 1
+$finish called at time : 4 ns : File "C:/Vivado_Projects/beahvioral_modelling/dlcd/project_1/project_1.srcs/sim_1/new/HA_tb.v" Line 43

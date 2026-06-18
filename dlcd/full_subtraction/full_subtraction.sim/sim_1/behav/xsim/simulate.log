@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time = 0 | a = 0, b = 0, bin = 0 | difference = 0, borrow = 0
+Time = 1000 | a = 0, b = 0, bin = 1 | difference = 1, borrow = 1
+Time = 2000 | a = 0, b = 1, bin = 0 | difference = 1, borrow = 1
+Time = 3000 | a = 0, b = 1, bin = 1 | difference = 0, borrow = 1
+Time = 4000 | a = 1, b = 0, bin = 0 | difference = 1, borrow = 0
+Time = 5000 | a = 1, b = 0, bin = 1 | difference = 0, borrow = 0
+Time = 6000 | a = 1, b = 1, bin = 0 | difference = 0, borrow = 0
+Time = 7000 | a = 1, b = 1, bin = 1 | difference = 1, borrow = 1
+$finish called at time : 8 ns : File "C:/Vivado_Projects/beahvioral_modelling/dlcd/full_subtraction/full_subtraction.srcs/sim_1/new/hs_tb.v" Line 44
