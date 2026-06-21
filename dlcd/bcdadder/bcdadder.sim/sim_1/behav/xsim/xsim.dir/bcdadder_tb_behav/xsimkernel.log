@@ -2,3 +2,6 @@ Running: xsim.dir/bcdadder_tb_behav/xsimk.exe -simmode gui -wdb bcdadder_tb_beha
 Design successfully loaded
 Design Loading Memory Usage: 11064 KB (Peak: 11064 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11956 KB (Peak: 11956 KB)
+Simulation CPU Usage: 61 ms
